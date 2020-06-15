@@ -9,3 +9,5 @@ These notebooks are gathering few technics for processing time-serie like signal
 - signal_smoothing.ipynb is presenting different methods to denoise a signal.
 
 - testing_normality.ipynb is presenting different methods and statistical tests to assess if a sample is drawn from a unimodal, normal distribution.
+
+- compressing_time_serie_model.ipynb is giving an exemple of frequential decoding of a time serie. From one time serie, we retrieve different features encoded at different frequencies.
